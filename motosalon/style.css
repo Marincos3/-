@@ -1,0 +1,279 @@
+.nav{
+    margin-left: auto;
+    margin-right: 200px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fon{
+    background: url(images/fonn.jpg) no-repeat 0px 0px;
+    background-size:100% 100%;
+    min-height: 800px;
+}
+
+.slide-text {
+    display: flex;
+    justify-content: center;
+    padding: 300px;
+}
+.slide-text h1{
+    color:#ffffff;
+    font-family: 'Droid Serif', serif;
+    font-size: 3.8em;
+    font-weight:750;
+}
+.slide-text span{
+    color: #ffffff;
+    font-size: 2em;
+    display: block;
+}
+.slide-btn{
+    color: #fff;
+    background: #FD3B01;
+    font-size: 1.4em;
+    padding: 0.5em 2.4em;
+    display: inline-block;
+    border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    -o-border-radius: 0.3em;
+    margin-top: 0.5em;
+}
+.text-center {
+    text-align: center;
+}
+.nazva{
+  max-width: 100%;
+  padding: 2px;
+  text-align: center;
+  margin: 5px;
+}
+.features {
+    padding: 4em 9em;
+}
+div.col-md-3.features-grid {
+   margin-bottom: 30px;
+}
+.col-md-3 {
+    width: 25%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.features-grid h3 a {
+    color: #454545;
+    font-size: 1.1em;
+    font-weight: 650;
+}
+a {
+    text-decoration: none;
+}
+.firma h2{
+   color: #2F2F2F;
+    font-family: 'Droid Serif', serif;
+    font-size: 2.3em;
+    font-weight:570; 
+    margin-bottom: 60px; 
+}
+.head-moto-img {
+    width: 130px;
+    height: 125px;
+    padding-bottom: 5px;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+.firma h2 span{
+     width: 70px;
+    height: 53px;
+    display: inline-block;
+     background: url(images/zn.jpg)no-repeat; 
+   
+}
+.pol{
+    background: url(images/mel.jpg) no-repeat 0px 0px;
+    background-size:50% 100%;
+    min-height: 800px;
+}
+.ver{
+   padding-top: 18em;
+   padding-right: 0em;
+   padding-left: 2em;
+   padding-bottom: 7em; 
+}
+.pravo{
+    display: flex;
+    justify-content: center;
+    padding-left: 45em;
+}
+.cul{
+    position: relative;
+    min-height: 1px;
+    padding-top: 4.9em;
+    padding-left: 0em;
+}
+div.cul.features-gr{
+    /*margin-top: 80px;*/
+   margin-bottom: 75px;
+}
+.ver-img{
+    width: 100px;
+    height: 95px;
+}
+.text-1{
+   padding-right: 30em;
+}
+.text-1 h3 a{
+    color: #2a2b26;
+    font-size: 1.5em;
+    font-weight: 650;
+}
+.col-md-2 {
+    /*width: 25%;*/
+    position: relative;
+    min-height: 1px;
+    /*padding-right: 15px;*/
+    padding-left: 180px;
+}
+div.col-md-2.features-grid {
+    margin-top: 50px;
+   margin-bottom: 80px;
+}
+.fin{
+
+    background-color: #bcb2a624;
+}
+.fony{
+
+background: url(images/diego.jpg); 
+  background-size:100% 100%;
+    min-height: 800px;
+
+}
+.cole {
+    width: 32%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-top: 2.4em;
+    padding-right: 0px;
+    padding-left: 80px;
+}
+
+a {
+    text-decoration: none;
+}
+.imgy{
+    width: 282px;
+    height: 225px;     
+}
+.fonun{
+background: #c0c0c075; 
+  background-size:50% 100%;
+    min-height: 470px;
+}
+.featur {
+    padding: 2em 3em;
+}
+.pre-footer{
+     background-color: #00000087;
+  min-height: 200px;
+  padding: 40px 0px 50px;
+    font-size: 14px;
+    line-height: 1;
+}
+.container{
+    width: 80%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+#rowq{
+    display: flex;
+  }
+.sp-module{
+    margin-bottom: 30px;
+  }
+.sotliv{
+    float: right;
+    padding-left:em;
+} 
+.sot{
+    width: 25%;
+   float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+.sotimg{
+    width: 40px;
+    height: 35px; 
+    }
+.tel{
+    color: white;
+    text-decoration: none;
+}
+.instimg{
+    width: 35px;
+    height: 35px; 
+}
+.fonu{
+background: #c0c0c075; 
+  background-size:50% 100%;
+    min-height: 760px;
+}
+.white{
+    color: white;
+}
+.litimg{
+ width: 470px;
+    height: 400px;    
+}
+.cole1 {
+    width: 32%;
+    float: left
+    position: relative;
+    min-height: 1px;
+    padding-top: 1em;
+    padding-right: 0px;
+    padding-left: 60px;
+}
+.cnop{
+    padding: 4em 13em;
+}
+.har {
+    width: 44%;
+    float: right;
+    position: relative;
+    min-height: 1px;
+    padding-top: 1em;
+    padding-right: 0px;
+    padding-left: px;
+}
+.su{
+    padding-top: 0.4em;
+    padding-left: 3em;
+    padding-bottom: 0.5em;
+}
+.si{
+   padding-left: 22px; 
+}
+.sa{
+    font-size: 10pt;
+    font-weight: 400;
+}
+.se{
+    padding-bottom: 1em;
+}
